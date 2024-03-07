@@ -1,0 +1,240 @@
+﻿  stdafx.cpp
+  Win32Project1.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Wall.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  ThornEffect.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\thorneffect.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\thorneffect.cpp(57): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Thorn.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Player.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\player.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\player.cpp(343): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\player.cpp(350): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\player.cpp(361): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  ObjMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Obj.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(22): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(23): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(24): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(25): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(27): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(28): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(29): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\obj.cpp(30): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  MainGame.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Sword.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\sword.cpp(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\sword.cpp(113): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\sword.cpp(137): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\sword.cpp(138): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\sword.cpp(148): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Stage4.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage4.cpp(55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage4.cpp(56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Stage3.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage3.cpp(70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage3.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Stage2.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage2.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage2.cpp(109): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage2.cpp(110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Stage1.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage1.cpp(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\stage1.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SoundMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\win32project1\soundmgr.cpp(113): warning C4244: 'initializing': conversion from 'intptr_t' to 'long', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\soundmgr.cpp(136): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SemiBoss.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(155): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(422): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\semiboss.cpp(424): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  ScrollMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\scrollmgr.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\scrollmgr.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SceneMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Scene.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Number.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\number.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyBmp.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Generating Code...
+  Compiling...
+  Logo.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(31): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(32): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(34): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(35): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(36): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(37): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\logo.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LineMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Line.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\line.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\line.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  KeyMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Key.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\key.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  HuskHusband.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(273): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(275): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(293): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(305): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(320): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(399): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(406): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\huskhusband.cpp(417): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  Husk.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(271): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(273): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(291): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(302): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(317): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(398): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(405): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\husk.cpp(416): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  HpBar.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Hp.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Heal.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\heal.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\heal.cpp(59): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Goal.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Fly.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(185): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(199): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(239): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(247): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(259): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(266): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(277): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\fly.cpp(286): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  Dash.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\dash.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\dash.cpp(53): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Damaged.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\damaged.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\damaged.cpp(54): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  CollisionMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  CEffect.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\ceffect.cpp(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\ceffect.cpp(47): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  BossEffect.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\bosseffect.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\bosseffect.cpp(59): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Boss.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\boss.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\boss.cpp(256): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\boss.cpp(318): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  BmpMgr.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+  Attack.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\attack.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Item.cpp
+c:\users\dhgld\desktop\포트폴리오\header\define.h(2): warning C4005: 'PURE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(193): note: see previous definition of 'PURE'
+c:\users\dhgld\desktop\포트폴리오\win32project1\item.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\item.cpp(111): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\item.cpp(118): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\dhgld\desktop\포트폴리오\win32project1\item.cpp(129): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_Create referenced in function "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_Release referenced in function "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_Init referenced in function "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_Close referenced in function "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_Update referenced in function "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_CreateSound referenced in function "private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_System_PlaySound referenced in function "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_Sound_Release referenced in function "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_Channel_Stop referenced in function "public: void __cdecl CSoundMgr::StopAll(void)" (?StopAll@CSoundMgr@@QEAAXXZ)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_Channel_SetVolume referenced in function "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_Channel_IsPlaying referenced in function "public: void __cdecl CSoundMgr::PlaySoundW(wchar_t *,enum CHANNELID,float)" (?PlaySoundW@CSoundMgr@@QEAAXPEA_WW4CHANNELID@@M@Z)
+SoundMgr.obj : error LNK2019: unresolved external symbol FMOD_Channel_SetMode referenced in function "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z)
+fmodex_vc.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dhgld\Desktop\포트폴리오\x64\Debug\Win32Project1.exe : fatal error LNK1120: 12 unresolved externals

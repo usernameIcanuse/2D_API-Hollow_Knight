@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{6dc4a4b4-a16e-405a-9b9f-0ae9e17b7737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj">
+      <UniqueIdentifier>{4bd33204-af72-420b-8f72-cb5ddd5536dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design">
+      <UniqueIdentifier>{2c0ee426-e834-4d53-a7b1-d0d1da0f3474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\99.AbstractFactory">
+      <UniqueIdentifier>{9f829904-8d87-4aaa-a9d7-75a689c0fccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\98.CollisionMgr">
+      <UniqueIdentifier>{93090771-6d6c-4639-83af-993e68fd7dd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\97.ObjMgr">
+      <UniqueIdentifier>{c859f793-dc87-4a92-be6e-e7d0ad36eced}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player">
+      <UniqueIdentifier>{d3d7d648-c2cb-4268-b710-d9d95b0780f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster">
+      <UniqueIdentifier>{b5fd1c0d-33e1-4e2f-8ae9-b8043729d2d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\02.Weapon">
+      <UniqueIdentifier>{533ba8a2-52fa-46a1-915e-0816313cea95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\02.Weapon\00.Sword">
+      <UniqueIdentifier>{9cc9322c-3c8d-439f-9e08-91e8b50a9e27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\96.LineMgr">
+      <UniqueIdentifier>{aa0ca25e-65a4-45d2-be81-a31624ccb52d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\96.LineMgr\Line">
+      <UniqueIdentifier>{713e73a1-6af1-486b-a032-35f0b7be4d9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\95.KeyMgr">
+      <UniqueIdentifier>{a12dc64d-e742-4218-818d-2bc0cfad8168}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\03.Item">
+      <UniqueIdentifier>{9e8f0342-b645-4f6e-80fe-8edf24cf723c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\94,ScrollMgr">
+      <UniqueIdentifier>{90597360-6a6b-4708-8a9f-c6ab1ec84485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\04.Wall">
+      <UniqueIdentifier>{c5b03e5b-6f6e-45da-a4d8-09dee4081eaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\05.Goal">
+      <UniqueIdentifier>{bf3aaa39-e2cb-4a82-90fa-2eda90736891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\93.SceneMgr">
+      <UniqueIdentifier>{8209dfc6-774f-4bfd-8846-bc4a6f137968}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene">
+      <UniqueIdentifier>{62fd7f10-cbfb-48ba-ac81-e4384a3fb2c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene\00.Logo">
+      <UniqueIdentifier>{e660cf9d-d51e-41d1-b84b-6442453adb0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene\02.Stage1">
+      <UniqueIdentifier>{bb22fb80-1dfb-4f4d-aa78-54eb4a4c256c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\00.Fly">
+      <UniqueIdentifier>{72084301-d0f7-457a-9227-2fe8b7b19ce0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\01.Husk">
+      <UniqueIdentifier>{1a491ce5-996d-4b00-9a0e-47d55a39d259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player\HPBar">
+      <UniqueIdentifier>{c5a4263e-b050-406f-9b62-186580a07641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player\HPBar\HP">
+      <UniqueIdentifier>{32e241f2-e30d-4613-ba3f-c6d47413eda3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\03.SemiBoss">
+      <UniqueIdentifier>{6c2bbdf2-964b-4f1a-bfb3-39efaeee1415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene\03.Stage2">
+      <UniqueIdentifier>{10e36691-b582-4002-bf94-43dadd574b16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\02.Weapon\01.Effect">
+      <UniqueIdentifier>{4d69ed7e-0b43-4d42-addc-593a0913a5e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\03.SemiBoss\00.Attack">
+      <UniqueIdentifier>{58e2c872-0d0d-42ea-8cca-7311399e113b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\04.Wall\Thorn">
+      <UniqueIdentifier>{056708a5-32a6-4a3e-9fa8-a7f1389029aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\HuskHusband">
+      <UniqueIdentifier>{368fda66-7e52-4668-a3a5-4b96fc183a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player\Heal">
+      <UniqueIdentifier>{5d29807c-1370-44ad-aa51-630f5fc13885}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene\04.Stage3">
+      <UniqueIdentifier>{3c12e952-d7b2-4fa8-871b-b58275d025e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Scene\05.Stage4">
+      <UniqueIdentifier>{50740b5b-ac80-41d3-b5f7-109b029b9d91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\92.SoundMgr">
+      <UniqueIdentifier>{d285f68e-b185-4ec5-8906-41a162fac5d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\06.Number">
+      <UniqueIdentifier>{c5499250-d8e8-4168-b79a-b6423c1874cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\05.Boss">
+      <UniqueIdentifier>{7cecaeb3-0af0-4463-a0bb-294b486a2595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player\DashEffect">
+      <UniqueIdentifier>{98bf1a2d-3d0c-4966-8def-aa0d1bc990dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\00.Player\Damaged">
+      <UniqueIdentifier>{9ae19cd1-31a9-46a4-ae5d-ec4f13e2d079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\04.Wall\Thorn\ThornEffect">
+      <UniqueIdentifier>{fe0332af-8f9a-4abb-ac2f-22e95adac2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.CObj\01.Monster\05.Boss\BossEffect">
+      <UniqueIdentifier>{f0ce6689-f1ea-40d1-b15b-386357c0bcbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\04.BmpMgr">
+      <UniqueIdentifier>{3ce234d0-6b4f-4f01-bd68-8c48966259b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\04.BmpMgr\MyBmp">
+      <UniqueIdentifier>{6e97cd04-84fa-4e49-a056-441e2a24b2df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32Project1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>02.Design\99.AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>02.Design\98.CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>02.Design\97.ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01.CObj\00.Player</Filter>
+    </ClInclude>
+    <ClInclude Include="LineMgr.h">
+      <Filter>02.Design\96.LineMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>02.Design\96.LineMgr\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>02.Design\95.KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>01.CObj\03.Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>02.Design\94,ScrollMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>01.CObj\04.Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01.CObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Goal.h">
+      <Filter>01.CObj\05.Goal</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpMgr.h">
+      <Filter>02.Design\04.BmpMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBmp.h">
+      <Filter>02.Design\04.BmpMgr\MyBmp</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>02.Design\93.SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>05.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>05.Scene\00.Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1.h">
+      <Filter>05.Scene\02.Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="Fly.h">
+      <Filter>01.CObj\01.Monster\00.Fly</Filter>
+    </ClInclude>
+    <ClInclude Include="Husk.h">
+      <Filter>01.CObj\01.Monster\01.Husk</Filter>
+    </ClInclude>
+    <ClInclude Include="HpBar.h">
+      <Filter>01.CObj\00.Player\HPBar</Filter>
+    </ClInclude>
+    <ClInclude Include="Hp.h">
+      <Filter>01.CObj\00.Player\HPBar\HP</Filter>
+    </ClInclude>
+    <ClInclude Include="SemiBoss.h">
+      <Filter>01.CObj\01.Monster\03.SemiBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>01.CObj\02.Weapon\00.Sword</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2.h">
+      <Filter>05.Scene\03.Stage2</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffect.h">
+      <Filter>01.CObj\02.Weapon\01.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>01.CObj\01.Monster\03.SemiBoss\00.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Thorn.h">
+      <Filter>01.CObj\04.Wall\Thorn</Filter>
+    </ClInclude>
+    <ClInclude Include="HuskHusband.h">
+      <Filter>01.CObj\01.Monster\HuskHusband</Filter>
+    </ClInclude>
+    <ClInclude Include="Heal.h">
+      <Filter>01.CObj\00.Player\Heal</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3.h">
+      <Filter>05.Scene\04.Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage4.h">
+      <Filter>05.Scene\05.Stage4</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>02.Design\92.SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Number.h">
+      <Filter>01.CObj\06.Number</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>01.CObj\01.Monster\05.Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Key.h">
+      <Filter>01.CObj\03.Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Dash.h">
+      <Filter>01.CObj\00.Player\DashEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Damaged.h">
+      <Filter>01.CObj\00.Player\Damaged</Filter>
+    </ClInclude>
+    <ClInclude Include="ThornEffect.h">
+      <Filter>01.CObj\04.Wall\Thorn\ThornEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="BossEffect.h">
+      <Filter>01.CObj\01.Monster\05.Boss\BossEffect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Win32Project1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>02.Design\98.CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>02.Design\97.ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01.CObj\00.Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>01.CObj\02.Weapon\00.Sword</Filter>
+    </ClCompile>
+    <ClCompile Include="LineMgr.cpp">
+      <Filter>02.Design\96.LineMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>02.Design\96.LineMgr\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>02.Design\95.KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>01.CObj\03.Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>02.Design\94,ScrollMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>01.CObj\04.Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01.CObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Goal.cpp">
+      <Filter>01.CObj\05.Goal</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpMgr.cpp">
+      <Filter>02.Design\04.BmpMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBmp.cpp">
+      <Filter>02.Design\04.BmpMgr\MyBmp</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>02.Design\93.SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>05.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>05.Scene\00.Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1.cpp">
+      <Filter>05.Scene\02.Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="Fly.cpp">
+      <Filter>01.CObj\01.Monster\00.Fly</Filter>
+    </ClCompile>
+    <ClCompile Include="Husk.cpp">
+      <Filter>01.CObj\01.Monster\01.Husk</Filter>
+    </ClCompile>
+    <ClCompile Include="Hp.cpp">
+      <Filter>01.CObj\00.Player\HPBar\HP</Filter>
+    </ClCompile>
+    <ClCompile Include="HpBar.cpp">
+      <Filter>01.CObj\00.Player\HPBar</Filter>
+    </ClCompile>
+    <ClCompile Include="SemiBoss.cpp">
+      <Filter>01.CObj\01.Monster\03.SemiBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2.cpp">
+      <Filter>05.Scene\03.Stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="CEffect.cpp">
+      <Filter>01.CObj\02.Weapon\01.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>01.CObj\01.Monster\03.SemiBoss\00.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Thorn.cpp">
+      <Filter>01.CObj\04.Wall\Thorn</Filter>
+    </ClCompile>
+    <ClCompile Include="HuskHusband.cpp">
+      <Filter>01.CObj\01.Monster\HuskHusband</Filter>
+    </ClCompile>
+    <ClCompile Include="Heal.cpp">
+      <Filter>01.CObj\00.Player\Heal</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3.cpp">
+      <Filter>05.Scene\04.Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage4.cpp">
+      <Filter>05.Scene\05.Stage4</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>02.Design\92.SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Number.cpp">
+      <Filter>01.CObj\06.Number</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>01.CObj\01.Monster\05.Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Key.cpp">
+      <Filter>01.CObj\03.Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Dash.cpp">
+      <Filter>01.CObj\00.Player\DashEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="Damaged.cpp">
+      <Filter>01.CObj\00.Player\Damaged</Filter>
+    </ClCompile>
+    <ClCompile Include="ThornEffect.cpp">
+      <Filter>01.CObj\04.Wall\Thorn\ThornEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="BossEffect.cpp">
+      <Filter>01.CObj\01.Monster\05.Boss\BossEffect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Win32Project1.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Win32Project1.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
